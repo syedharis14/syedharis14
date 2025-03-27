@@ -38,10 +38,10 @@
 
 ## 🌟 Featured Projects  
 
-### 🏔️ [Polar Adventure](https://polaradventure.com/)
+### 🌄 [Polar Adventure](https://polaradventure.com/)
 🚀 **Expedition platform for Arctic & Antarctic tours**  
-✅ **Tech Stack:** Next.js, Makeswift, Role-Based Access Control (RBAC)  
-✅ **Features:**  
+👉 **Tech Stack:** Next.js, Makeswift, Role-Based Access Control (RBAC)  
+👉 **Features:**  
 - Integrated real-time cruise data  
 - Custom admin panel for tour operators  
 - Bulk data management for operational efficiency  
@@ -50,8 +50,8 @@
 
 ### ✈️ [TripMerchant](https://tripmerchant.com/)  
 🚀 **Multi-Tenant SaaS for Membership-Based Travel Websites**  
-✅ **Tech Stack:** React.js, Node.js, Sequelize, MySQL  
-✅ **Features:**  
+👉 **Tech Stack:** React.js, Node.js, Sequelize, MySQL  
+👉 **Features:**  
 - Custom-branded travel sites for members  
 - Dynamic admin panel for managing trips & partnerships  
 - Multi-tenancy support with Stripe payment integration  
@@ -60,11 +60,26 @@
 
 ### 🚗 Relay Automotive (V2)  
 🚀 **Scalable Architecture for Automotive Dealership Management**  
-✅ **Tech Stack:** React.js, NestJS, Prisma, PostgreSQL  
-✅ **Features:**  
+👉 **Tech Stack:** React.js, NestJS, Prisma, PostgreSQL  
+👉 **Features:**  
 - Migrated a legacy MERN codebase to a modular microservices system  
 - Optimized database queries, reducing technical debt  
 - Enhanced performance & security with JWT authentication and RBAC  
+
+---
+
+### 🔧 git-ai-commit
+🚀 **AI-powered Git commit message generator using OpenAI**  
+👉 **Tech Stack:** Node.js, OpenAI API, Commander.js, Simple-Git  
+👉 **Features:**  
+- AI-generated **context-aware** commit messages  
+- Supports **Conventional Commits** format  
+- **Auto-commit** mode for faster workflows  
+- **Multi-language support** (`--lang` option)  
+- **Usage analytics & tracking**  
+- **Update notifications**  
+
+👉 **Try it now:** [NPM Package](https://www.npmjs.com/package/@syedharis14/git-ai-commit) | [GitHub](https://github.com/syedharis14/git-ai-commit)  
 
 ---
 
@@ -90,9 +105,9 @@
 
 ---
 
-## 📫 Get in Touch  
-💼 [LinkedIn](https://www.linkedin.com/in/syed-haris-024295184)  
+## 📞 Get in Touch  
+🌟 [LinkedIn](https://www.linkedin.com/in/syed-haris-024295184)  
 📧 [Email](mailto:sharisdev08@gmail.com)  
 
 ---
-⭐ **If you like my work, consider giving a star to my repositories!** 🌟
+🌟 **If you like my work, consider giving a star to my repositories!** 🌟
