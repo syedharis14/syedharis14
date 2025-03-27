@@ -81,6 +81,14 @@
 
 👉 **Try it now:** [NPM Package](https://www.npmjs.com/package/@syedharis14/git-ai-commit) | [GitHub](https://github.com/syedharis14/git-ai-commit)  
 
+![npm](https://img.shields.io/npm/dt/@syedharis14/git-ai-commit?color=blue)
+![npm version](https://img.shields.io/npm/v/@syedharis14/git-ai-commit)
+![npm license](https://img.shields.io/npm/l/@syedharis14/git-ai-commit)
+![npm bundle size](https://img.shields.io/bundlephobia/min/@syedharis14/git-ai-commit)
+![GitHub Repo stars](https://img.shields.io/github/stars/syedharis14/git-ai-commit)
+![GitHub forks](https://img.shields.io/github/forks/syedharis14/git-ai-commit)
+![GitHub last commit](https://img.shields.io/github/last-commit/syedharis14/git-ai-commit)
+
 ---
 
 ## 🛠️ Tech Stack  
